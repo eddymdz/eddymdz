@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hola!</h1>
 
-<!--
-**eddymdz/eddymdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm Eduardo Méndez a <strong>SysAdmin</strong> and <strong>Full Stack Developer</strong>, this is my creative and sharing space. I hope that my contributions can be useful or inspirational for you 🙏</p>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/eduardo-mendez-sysadmin/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eduardo Méndez LinkedIn"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##### MOTTO
+
+> When the time is on you, start, and the pressure will be off. - Yogi Bhajan
+ 
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=eddymdz&show_icons=true&count_private=true&theme=vue" alt="https://github.com/eddymdz/" />
